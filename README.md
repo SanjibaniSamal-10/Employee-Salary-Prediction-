@@ -4,11 +4,15 @@ The goal of this project is to build a predictive model that can accurately clas
 
 # Dataset
 Source: UCI Machine Learning Repository
+
 Reference Dataset URL: Adult Income Dataset on Kaggle
+
 Original Dataset URL: Adult Dataset on UCI
+
 Number of Instances: 48,842 (32,561 for training, 16,281 for testing)
+
 Number of Attributes: 14 features + 1 target variable (Income)
-Attributes:
+# Attributes:
 age: Continuous
 workclass: Categorical (e.g., Private, Self-emp, Government)
 fnlwgt: Continuous
