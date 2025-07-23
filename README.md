@@ -56,6 +56,7 @@ Model Building: Applying different machine learning algorithms like Logistic Reg
 Model Evaluation: Assessing the performance of the models using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.
 # Results
 Obtained The Best Modal as Gradient Boosting Classifier With Accuracy of 86.40%  and F1 Score of 0.6622
+
 Deployment Link : https://employee-salary-prediction1-10.streamlit.app/
 # Acknowledgements
 This dataset was originally extracted from the 1994 U.S. Census by Barry Becker and has been a popular choice for benchmarking machine learning algorithms. The dataset is publicly available on the UCI Machine Learning Repository.
