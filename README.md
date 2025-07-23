@@ -5,11 +5,11 @@ The goal of this project is to build a predictive model that can accurately clas
 # Dataset
 Source: UCI Machine Learning Repository
 
-Reference Dataset URL: Adult Income Dataset on Kaggle
+Reference Dataset URL: https://www.kaggle.com/datasets/wenruliu/adult-income-dataset
 
-Original Dataset URL: Adult Dataset on UCI
+Original Dataset URL: https://www.cs.toronto.edu/~delve/data/adult/adultDetail.html
 
-Number of Instances: 48,842 (32,561 for training, 16,281 for testing)
+Number of Instances: 48,842 (38,581 for training, 9646 for testing)
 
 Number of Attributes: 14 features + 1 target variable (Income)
 # Attributes:
@@ -51,14 +51,13 @@ Data Preprocessing: Handling missing values, encoding categorical features, and 
 
 Exploratory Data Analysis (EDA): Understanding the distribution of features and their relationships with the target variable.
 
-Model Building: Applying different machine learning algorithms like Logistic Regression, Decision Trees, Random Forest, and more.
+Model Building: Applying different machine learning algorithms like Logistic Regression, Decision Trees, Random Forest, SVM, Gradient Boosting,Ada Boost,Naive Bayes,and KNN .
 Model Evaluation: Assessing the performance of the models using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.
 # Results
+Obtained The Best Modal as Gradient Boosting Classifier With Accuracy of 86.40%  and F1 Score of 0.6622
 
 # Acknowledgements
 This dataset was originally extracted from the 1994 U.S. Census by Barry Becker and has been a popular choice for benchmarking machine learning algorithms. The dataset is publicly available on the UCI Machine Learning Repository.
 
 # References
-UCI Machine Learning Repository - Adult Dataset
-
 Ron Kohavi, "Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid", Proceedings of the Second International Conference on Knowledge Discovery and Data Mining, 1996.
